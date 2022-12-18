@@ -1,0 +1,4 @@
+economicpayment:
+    oipa:
+      exchange: the queue economic payment oipa exchange from queue configuration yml
+      queue: the queue economic payment oipa from queue configuration yml
